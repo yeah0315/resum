@@ -54,12 +54,11 @@ h1, h2, h3, h4, h5 {
     font-weight: 500;
     color: #607d8b;
     line-height: 1.5;
-
 }
 
 .progress-list div {
     width: 100%;
-    margin-left: 150px;
+    margin-left: 200px;
 }
 
 .info-list, .progress-list{
@@ -137,7 +136,7 @@ p {
 progress {
     background-color: #f6f6f6;
     display: inline;
-    width: 195px;
+    /*width: 195px;*/
     height: 1em;
 
 }
@@ -180,12 +179,12 @@ progress::-moz-progress-value {
 }
 
 .weixin img{
-    width: 190px;
+    width: 200px;
 }
 
 .left-label {
     display: inline-block;
-    width: 90px;
+    width: 120px;
 }
 
 .portrait {
